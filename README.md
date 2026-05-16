@@ -16,8 +16,4 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.donationalerts.com/r/ewenloy"><img width="32px" alt="Patreon" title="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/></a> 
 </p>
-<p> <img alt="Stats2" src="https://github-readme-streak-stats-one-alpha.vercel.app/?user=EwenLoy&theme=shadow_green" /> <img src="https://github-readme-stats.vercel.app/api?username=EwenLoy&count_private=true&show_icons=true&theme=shadow_green" /></p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwenLoy&layout=compact&langs_count=10&theme=shadow_green" />
-
-
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=EwenLoy&label=Profile%20views&color=0e75b6&style=flat" alt="EwenLoy"/></a> 
