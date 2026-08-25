@@ -17,3 +17,4 @@
   <a href="https://www.donationalerts.com/r/ewenloy"><img width="32px" alt="Patreon" title="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/></a> 
 </p>
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=EwenLoy&label=Profile%20views&color=0e75b6&style=flat" alt="EwenLoy"/></a> 
+Связь со мной: tg @ewenloy
