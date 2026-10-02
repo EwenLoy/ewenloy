@@ -18,5 +18,4 @@
 </p>
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=EwenLoy&label=Profile%20views&color=0e75b6&style=flat" alt="EwenLoy"/></a> 
 
- У меня нету никаких личных каналов (пока)
-Связь со мной: tg @ewenloy
+ 
