@@ -35,3 +35,16 @@ I build desktop tooling, launchers and bots — mostly **Rust**, **Kotlin**, **P
 ### What I work with
 
 `Rust` · `Kotlin` · `Python` · `JavaScript` · `Go` · `Tauri` · `Electron` · `Cloudflare Workers`
+
+### GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EwenLoy&show_icons=true&hide_title=true&hide_border=true&count_private=true" alt="EwenLoy's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwenLoy&layout=compact&hide_title=true&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+### Get in touch
+
+- Discord: [discord.gg/ewenloy](https://discord.gg/ewenloy)
+- YouTube: [@ewenloy](https://www.youtube.com/@ewenloy)
+- Dev.to: [dev.to/ewenloy](https://dev.to/ewenloy)
