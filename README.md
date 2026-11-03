@@ -18,33 +18,3 @@
   <img src="https://komarev.com/ghpvc/?username=EwenLoy&label=Profile%20views&color=0e75b6&style=flat" alt="EwenLoy"/>
 </div>
 
-## Hi there
-
-I build desktop tooling, launchers and bots — mostly **Rust**, **Kotlin**, **Python** and **JavaScript**.
-
-### Featured projects
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [ByeByeDPI-x-tg](https://github.com/EwenLoy/ByeByeDPI-x-tg) | Android app for DPI bypass with Telegram integration | Kotlin |
-| [Saturn-Builder](https://github.com/EwenLoy/Saturn-Builder) | Build and packaging tooling for Construct 3 projects | Python |
-| [GRUB-Theme-Editor](https://github.com/EwenLoy/GRUB-Theme-Editor) | Visual editor for GRUB boot themes | JavaScript |
-| [Yaromirs-proxy](https://github.com/EwenLoy/Yaromirs-proxy) | Lightweight proxy utility | Rust |
-| [ZSTD-Decryptor](https://github.com/EwenLoy/ZSTD-Decryptor) | Zstandard archive decryptor | Rust |
-
-### What I work with
-
-`Rust` · `Kotlin` · `Python` · `JavaScript` · `Go` · `Tauri` · `Electron` · `Cloudflare Workers`
-
-### GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EwenLoy&show_icons=true&hide_title=true&hide_border=true&count_private=true" alt="EwenLoy's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwenLoy&layout=compact&hide_title=true&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-### Get in touch
-
-- Discord: [discord.gg/ewenloy](https://discord.gg/ewenloy)
-- YouTube: [@ewenloy](https://www.youtube.com/@ewenloy)
-- Dev.to: [dev.to/ewenloy](https://dev.to/ewenloy)
