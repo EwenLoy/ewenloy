@@ -1,8 +1,5 @@
  ![fvdss](https://github.com/user-attachments/assets/84ddcc0a-4359-4127-8639-a7cbf5cf1651)
 
-
-
-<p>
 <p align="center">
   <a href="https://www.youtube.com/@ewenloy"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -14,8 +11,27 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.donationalerts.com/r/ewenloy"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.donationalerts.com/r/ewenloy"><img width="32px" alt="Patreon" title="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/></a> 
+  <a href="https://www.donationalerts.com/r/ewenloy"><img width="32px" alt="Patreon" title="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=EwenLoy&label=Profile%20views&color=0e75b6&style=flat" alt="EwenLoy"/></a> 
 
- 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=EwenLoy&label=Profile%20views&color=0e75b6&style=flat" alt="EwenLoy"/>
+</div>
+
+## Hi there
+
+I build desktop tooling, launchers and bots — mostly **Rust**, **Kotlin**, **Python** and **JavaScript**.
+
+### Featured projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [ByeByeDPI-x-tg](https://github.com/EwenLoy/ByeByeDPI-x-tg) | Android app for DPI bypass with Telegram integration | Kotlin |
+| [Saturn-Builder](https://github.com/EwenLoy/Saturn-Builder) | Build and packaging tooling for Construct 3 projects | Python |
+| [GRUB-Theme-Editor](https://github.com/EwenLoy/GRUB-Theme-Editor) | Visual editor for GRUB boot themes | JavaScript |
+| [Yaromirs-proxy](https://github.com/EwenLoy/Yaromirs-proxy) | Lightweight proxy utility | Rust |
+| [ZSTD-Decryptor](https://github.com/EwenLoy/ZSTD-Decryptor) | Zstandard archive decryptor | Rust |
+
+### What I work with
+
+`Rust` · `Kotlin` · `Python` · `JavaScript` · `Go` · `Tauri` · `Electron` · `Cloudflare Workers`
